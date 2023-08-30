@@ -1,3 +1,10 @@
+executables
+build_Debug
+build_Release
+build_RelWithDebInfo
+build_MinSizeRel
+tools
+
 # Prerequisites
 *.d
 
